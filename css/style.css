@@ -40,7 +40,7 @@ body {
 #panorama {
     width: 100%;
     height: 150px;
-    background: url(img/kotiki.png) no-repeat center 65%;
+    background: url(..img/kotiki.png) no-repeat center 65%;
 }
 .services__img  {
     width: 250px;
