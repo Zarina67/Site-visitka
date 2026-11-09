@@ -209,9 +209,10 @@ th {
 #contact-form input[type="submit"]{
     text-transform: uppercase;
     font-style: italic;
+    background-color: #FF4500;
 }
 #contact-form input[type="submit"]:hover {
-    background-color: #FF4500;
+    background-color: #eddfff;
 }
 #contact-form input, select, textarea {
     background-color: #eddfff;
