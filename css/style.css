@@ -214,7 +214,7 @@ th {
 #contact-form input[type="submit"]:hover {
     background-color: #eddfff;
 }
-#contact-form input, select, textarea {
+#contact-form input, select {
     background-color: #eddfff;
     height: 40px;
     width: 250px;
